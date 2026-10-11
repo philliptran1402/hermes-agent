@@ -322,3 +322,6 @@ native/fts5_cjk/*.so
 /pm/.lock.json.lock
 
 apps/desktop/.dist-build*
+
+# Local Vietnamese translation of the code-understanding notes.
+/docs/code-understanding/vi/
